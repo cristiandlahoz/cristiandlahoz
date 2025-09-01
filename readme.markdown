@@ -48,8 +48,7 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FA7343?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)](https://cristiandelahoz.tech)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristiandelahoz/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/cristiandelahooz)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/cristiandhoz)
 
 ---
 
