@@ -34,7 +34,7 @@ jobs:
         env:
           GIST_ID: e6e77169fc620bca4304466d182a3a8d
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GH_USERNAME: cristiandlhoz
+          GH_USERNAME: cristiandlahoz
           EXCLUDE: ${{ vars.EXCLUDE }}
           EXCLUDE_REPO: ${{ vars.EXCLUDE_REPO }}
           DESCRIPTION: "languages"
