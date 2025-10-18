@@ -4,8 +4,8 @@
 
 ### 💻 Computer Science Engineer | Backend Developer in Progress
 
-![GitHub Followers](https://img.shields.io/github/followers/cristiandelahooz?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/cristiandelahooz?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/cristiandlahoz?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/cristiandlahoz?style=social)
 
 ---
 
