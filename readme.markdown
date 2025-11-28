@@ -2,7 +2,7 @@
 
 # Hey there, I'm Cristian de la Hoz 👋
 
-### 💻 Computer Science Engineer | Backend Developer in Progress
+### 💻 Computer Science Engineer
 
 ![GitHub Followers](https://img.shields.io/github/followers/cristiandlahoz?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/cristiandlahoz?style=social)
@@ -10,11 +10,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark-flat.png" alt="Neovim Logo" width="70"/>
-</p>
-
-<p align="center">
-  <b>Neovim enthusiast ⚡ | Java backend explorer ☕ | Arch Linux + Qtile user 🐧</b>
+<img width="830" height="240" alt="logo 1 (3)" src="https://github.com/user-attachments/assets/68ea2f50-5f6c-40a1-b0a1-d45b29361777" />
+  
+<!-- <img width="830" height="240" alt="logo 1" src="https://github.com/user-attachments/assets/94213497-7c3c-4831-b923-5d89c066e02a" /> -->
 </p>
 
 ---
