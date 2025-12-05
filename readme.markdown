@@ -19,8 +19,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Third-year CS student at **PUCMM**  
-- 🌱 Currently diving deep into **Spring Framework** (Java)  
+- 🎓 Last-year CS student at **PUCMM**  
+- 🌱 Currently diving deep into **Vaadin Flow** (Java)  
 - 🛠️ Passionate about **Neovim**, **clean code** & **keyboard-driven workflows**  
 - 🎯 Goal: Becoming a **Full-Stack Developer** with a strong backend foundation  
 
