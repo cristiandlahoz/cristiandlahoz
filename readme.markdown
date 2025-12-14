@@ -1,57 +1,92 @@
-![Static Badge](https://img.shields.io/badge/🐦‍🔥-F7DF1E?style=for-the-badge&logo=superuser&logoColor=rgba&label=Ignatius)
+<div align="center">
 
-# Hey there, I'm Cristian de la Hoz 👋
+<table>
+<tr>
+<td width="45%">
+
+<img src="https://github.com/user-attachments/assets/908e1741-3f51-4a12-ac1b-9693071914ee" alt="Cristian's Workspace" width="100%"/>
+
+</td>
+<td width="55%">
+
+# Cristian de la Hoz
 
 ### 💻 Computer Science Engineer
 
-![GitHub Followers](https://img.shields.io/github/followers/cristiandlahoz?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/cristiandlahoz?style=social)
-
----
-
-<p align="center">
-<img width="830" height="240" alt="logo 1 (3)" src="https://github.com/user-attachments/assets/68ea2f50-5f6c-40a1-b0a1-d45b29361777" />
+```text
+Currently:
+  → Final year @ PUCMM  
+  → Solving FullCalendar + Vaadin integration
+  → Building with Spring Boot + PostgreSQL
   
-<!-- <img width="830" height="240" alt="logo 1" src="https://github.com/user-attachments/assets/94213497-7c3c-4831-b923-5d89c066e02a" /> -->
-</p>
+Philosophy:
+  Clean code. Keyboard-driven. Neovim or nothing.
+```
 
----
+<br>
 
-## 🚀 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://cristiandelahoz.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiandlahoz)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cristiandhoz)
 
-- 🎓 Last-year CS student at **PUCMM**  
-- 🌱 Currently diving deep into **Vaadin Flow** (Java)  
-- 🛠️ Passionate about **Neovim**, **clean code** & **keyboard-driven workflows**  
-- 🎯 Goal: Becoming a **Full-Stack Developer** with a strong backend foundation  
+</td>
+</tr>
+</table>
 
----
+</div>
 
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,linux,arch,neovim,ts,python,githubactions,gradle,hibernate,idea,latex,maven,nextjs,postman,vscode,c,git,github,postgresql,docker&theme=dark" />
-</p>
-
----
-
-## ✨ Favorite Tools
-
-- 🖋️ **Editor**: Neovim (custom config & Lua magic 🪄)  
-- 🖥️ **OS/WM**: Arch Linux + Qtile  lover (currently macos)
-- ⚡ **Backend**: Java + Spring Boot  
-- 🗄️ **Database**: PostgreSQL / SQL Server  
----
-
-## 🌐 Find Me On
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FA7343?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)](https://cristiandelahoz.tech)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristiandelahoz/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/cristiandhoz)
-
----
+<br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/wave-divider.svg" width="1000%"/>
+</p>
+
+## 技術 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,linux,neovim&theme=dark" />
   <br>
-  <i>"Coding is better when your editor is Neovim ⚡"</i>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,flutter,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/bamboo-divider.svg" height="80"/>
+</p>
+
+## 現在 Current Focus
+
+Building **Zoolan**, a veterinary clinic management system for a real client. The interesting challenge? Integrating FullCalendar.js into Vaadin Flow's server-side rendering model.
+
+**The Problem:** Vaadin abstracts away JavaScript, but FullCalendar is a complex JS library. Bridging the event system, state management, and callback handling between client-side JS and server-side Java isn't documented anywhere.
+
+**The Stack:** Spring Boot · Vaadin Flow · PostgreSQL · FullCalendar · Docker
+
+**Status:** Core features complete, polishing appointment scheduling. Shipping post-graduation.
+
+[View Repository →](https://github.com/cristiandlahoz/zoolan-vetmgmt)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/sakura-divider.svg" width="200"/>
+</p>
+
+##  その他 Other Work
+
+**[Markdown-Powered Blog](https://github.com/cristiandlahoz/markdown-powered-blog)** - Next.js blog with animated sidebar navigation. Built to learn Next.js SSG and TypeScript. Design inspired by Takuya Matsuyama.
+
+**Tech:** Next.js · TypeScript · Tailwind CSS
+
+<br>
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/enso-circle.svg" height="100"/>
+
+</p>
+
+<p align="center">
+  <i>"Write code like you're crafting a katana - precise, elegant, deadly."</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/wave-divider.svg" width="100%"/>
 </p>
