@@ -16,8 +16,7 @@
 ```text
 Currently:
   → Final year @ PUCMM  
-  → Solving FullCalendar + Vaadin integration
-  → Building with Spring Boot + PostgreSQL
+  → Building with Spring Boot + Vaadin + PostgreSQL
   
 Philosophy:
   Clean code. Keyboard-driven. Neovim or nothing.
