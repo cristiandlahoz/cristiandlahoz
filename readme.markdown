@@ -36,10 +36,6 @@ Philosophy:
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/wave-divider.svg" width="1000%"/>
-</p>
-
 ## 技術 Tech Stack
 
 <p align="center">
