@@ -9,9 +9,7 @@
 
 <td width="55%">
 
-# Cristian de la Hoz
-
-### 💻 Computer Science Engineer
+### Computer Science Engineer
 
 ```text
 Currently:
@@ -26,7 +24,7 @@ Philosophy:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://cristiandelahoz.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiandlahoz)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cristiandhoz)
+[![X](https://img.shields.io/badge/""-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cristiandhoz)
 
 </td>
 </tr>
@@ -55,10 +53,6 @@ Building **Zoolan**, a veterinary clinic management system for a real client. Th
 **Status:** Core features complete, polishing appointment scheduling. Shipping post-graduation.
 
 [View Repository →](https://github.com/cristiandlahoz/zoolan-vetmgmt)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/sakura-divider.svg" width="200"/>
-</p>
 
 ##  その他 Other Work
 
