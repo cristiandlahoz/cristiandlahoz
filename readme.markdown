@@ -44,10 +44,6 @@ Philosophy:
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,flutter,git,github&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/bamboo-divider.svg" height="80"/>
-</p>
-
 ## 現在 Current Focus
 
 Building **Zoolan**, a veterinary clinic management system for a real client. The interesting challenge? Integrating FullCalendar.js into Vaadin Flow's server-side rendering model.
@@ -75,7 +71,6 @@ Building **Zoolan**, a veterinary clinic management system for a real client. Th
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/enso-circle.svg" height="100"/>
-
 </p>
 
 <p align="center">
