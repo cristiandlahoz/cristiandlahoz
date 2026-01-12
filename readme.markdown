@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <table>
@@ -18,13 +19,8 @@ Currently:
   
 Philosophy:
   Clean code. Keyboard-driven. Neovim or nothing.
+
 ```
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://cristiandelahoz.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiandlahoz)
-[![X](https://img.shields.io/badge/""-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cristiandhoz)
 
 </td>
 </tr>
@@ -32,45 +28,44 @@ Philosophy:
 
 </div>
 
-<br>
-
 ## 技術 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,linux,neovim&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,flutter,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,linux,neovim&theme=dark" />
+
+
+
+
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,flutter,git,github&theme=dark" />
 </p>
 
 ## 現在 Current Focus
 
-Building **Zoolan**, a veterinary clinic management system for a real client. The interesting challenge? Integrating FullCalendar.js into Vaadin Flow's server-side rendering model.
+Building **[Climacall](https://www.climacall.com)**, a management platform tailored for HVAC companies. I am part of a small, agile team focused on delivering a robust solution for service tracking and business operations.
 
-**The Problem:** Vaadin abstracts away JavaScript, but FullCalendar is a complex JS library. Bridging the event system, state management, and callback handling between client-side JS and server-side Java isn't documented anywhere.
+**My Role:** Full-stack development. I handle everything from designing the **Data Model** and implementing **Spring Boot** logic to crafting the UI with **Vaadin Flow**. Beyond coding, I actively contribute to product strategy, finding ways to make the platform more efficient for HVAC workflows.
 
-**The Stack:** Spring Boot · Vaadin Flow · PostgreSQL · FullCalendar · Docker
+**The Stack:** Spring Boot · Vaadin Flow · PostgreSQL · Docker
 
-**Status:** Core features complete, polishing appointment scheduling. Shipping post-graduation.
+## その他 Other Work
 
-[View Repository →](https://github.com/cristiandlahoz/zoolan-vetmgmt)
+**[Zoolan](https://github.com/cristiandlahoz/zoolan-vetmgmt)** - A veterinary clinic management system built for a real-world client to streamline patient records and appointment scheduling.
+**Tech:** Spring Boot · Vaadin Flow · PostgreSQL
 
-##  その他 Other Work
-
-**[Markdown-Powered Blog](https://github.com/cristiandlahoz/markdown-powered-blog)** - Next.js blog with animated sidebar navigation. Built to learn Next.js SSG and TypeScript. Design inspired by Takuya Matsuyama.
-
+**[Markdown-Powered Blog](https://github.com/cristiandlahoz/markdown-powered-blog)** - Next.js blog with animated sidebar navigation. Built to learn Next.js SSG and TypeScript.
 **Tech:** Next.js · TypeScript · Tailwind CSS
 
-<br>
-<br>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/enso-circle.svg" height="100"/>
+<img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/enso-circle.svg" height="100"/>
 </p>
 
 <p align="center">
-  <i>"Write code like you're crafting a katana - precise, elegant, deadly."</i>
+<i>"Write code like you're crafting a katana - precise, elegant, deadly."</i>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/wave-divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/wave-divider.svg" width="100%"/>
 </p>
+
+```
