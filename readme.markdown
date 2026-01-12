@@ -33,11 +33,7 @@ Philosophy:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,linux,neovim&theme=dark" />
 
-
-
-
-
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,flutter,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,git,github&theme=dark" />
 </p>
 
 ## 現在 Current Focus
