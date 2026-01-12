@@ -40,7 +40,7 @@ Philosophy:
 
 Building **[Climacall](https://www.climacall.com)**, a management platform tailored for HVAC companies. I am part of a small, agile team focused on delivering a robust solution for service tracking and business operations.
 
-**My Role:** Full-stack development. I handle everything from designing the **Data Model** and implementing **Spring Boot** logic to crafting the UI with **Vaadin Flow**. Beyond coding, I actively contribute to product strategy, finding ways to make the platform more efficient for HVAC workflows.
+**My Role:** Full-stack development. I **collaborate** on the end-to-end lifecycle, from **aligning on Data Models** and implementing **Spring Boot** logic to refining the UI with **Vaadin Flow**. Beyond technical execution, I **partner with stakeholders** to evolve our product strategy, ensuring our collective output optimizes HVAC workflows.
 
 **The Stack:** Spring Boot · Vaadin Flow · PostgreSQL · Docker
 
