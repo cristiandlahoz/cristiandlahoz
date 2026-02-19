@@ -16,6 +16,7 @@
 Currently:
   → Final year @ PUCMM  
   → Building with Spring Boot + Vaadin + PostgreSQL
+  → Research: Socratic AI tutor for CS novices (RAG + Guardrails)
   
 Philosophy:
   Clean code. Keyboard-driven. Neovim or nothing.
