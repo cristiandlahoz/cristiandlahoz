@@ -42,7 +42,11 @@ Building **[Climacall](https://www.climacall.com)**, a management platform tailo
 
 **My Role:** Full-stack development. I **collaborate** on the end-to-end lifecycle, from **aligning on Data Models** and implementing **Spring Boot** logic to refining the UI with **Vaadin Flow**. Beyond technical execution, I **partner with stakeholders** to evolve our product strategy, ensuring our collective output optimizes HVAC workflows.
 
-**The Stack:** Spring Boot · Vaadin Flow · PostgreSQL · Docker
+**The Stack:** Spring Boot · Vaadin Flow · PostgreSQL · Docker"
+
+## 活動 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/cristiandlahoz)
 
 ## その他 Other Work
 
