@@ -47,28 +47,53 @@ Building **[Climacall](https://www.climacall.com)**, a management platform tailo
 
 ## 活動 GitHub Activity
 
+<table width="100%">
+<tr>
+<td width="340">
 <img
-  src="https://github.com/user-attachments/assets/e208d806-7244-4f7b-9676-b32a573cf11c"
-  alt="Japanese-style sakura tree."
-  width="310"
-  align="left"
+src="https://github.com/user-attachments/assets/e208d806-7244-4f7b-9676-b32a573cf11c"
+alt="Japanese-style sakura tree."
+width="350"
+/>
+</td>
+
+<td valign="top">
+<h2>活動 GitHub Activity</h2>
+
+<img
+src="https://ghchart.rshah.org/cristiandlahoz"
+alt="GitHub Contribution Graph"
+width="100%"
 />
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/cristiandlahoz)
+<br /><br />
 
-<br clear="right"/>
-
-## その他 Other Work
-
-**[Zoolan](https://github.com/cristiandlahoz/zoolan-vetmgmt)** - A veterinary clinic management system built for a real-world client to streamline patient records and appointment scheduling.
-**Tech:** Spring Boot · Vaadin Flow · PostgreSQL
-
-**[Markdown-Powered Blog](https://github.com/cristiandlahoz/markdown-powered-blog)** - Next.js blog with animated sidebar navigation. Built to learn Next.js SSG and TypeScript.
-**Tech:** Next.js · TypeScript · Tailwind CSS
+<h2>その他 Other Work</h2>
 
 <p>
-<i>"Write code like you're crafting a katana - precise, elegant, deadly."</i>
+<strong>
+<a href="https://github.com/cristiandlahoz/zoolan-vetmgmt">Zoolan</a>
+</strong>
+- A veterinary clinic management system built for a real-world client to streamline patient records and appointment scheduling.
+<br />
+<strong>Tech:</strong> Spring Boot · Vaadin Flow · PostgreSQL
 </p>
+
+<p>
+<strong>
+<a href="https://github.com/cristiandlahoz/markdown-powered-blog">Markdown-Powered Blog</a>
+</strong>
+- Next.js blog with animated sidebar navigation. Built to learn Next.js SSG and TypeScript.
+<br />
+<strong>Tech:</strong> Next.js · TypeScript · Tailwind CSS
+</p>
+
+<p>
+<em>"Write code like you're crafting a katana - precise, elegant, deadly."</em>
+</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f71ee569-8fdd-4863-a631-067f7c20b2da" width="100%"/>
