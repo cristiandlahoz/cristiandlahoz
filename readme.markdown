@@ -58,15 +58,9 @@ Building **[Climacall](https://www.climacall.com)**, a management platform tailo
 **Tech:** Next.js · TypeScript · Tailwind CSS
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/enso-circle.svg" height="100"/>
-</p>
-
-<p align="center">
 <i>"Write code like you're crafting a katana - precise, elegant, deadly."</i>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/cristiandlahoz/cristiandlahoz/refs/heads/master/assets/wave-divider.svg" width="100%"/>
+<img src="https://github.com/user-attachments/assets/f71ee569-8fdd-4863-a631-067f7c20b2da" width="100%"/>
 </p>
-
-```
