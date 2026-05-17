@@ -16,10 +16,10 @@
 Currently:
   → Final year @ PUCMM  
   → Building with Spring Boot + Vaadin + PostgreSQL
-  → Research: Socratic AI tutor for CS novices (RAG + Guardrails)
+  → Research: Socratic AI tutor for CS novices (RAG + Guardrails + learning tools)
   
 Philosophy:
-  Clean code. Keyboard-driven. Neovim or nothing.
+  Clean code. Keyboard-driven. Pragmatic Decisions. Neovim or nothing.
 
 ```
 
@@ -47,7 +47,16 @@ Building **[Climacall](https://www.climacall.com)**, a management platform tailo
 
 ## 活動 GitHub Activity
 
+<img
+  src="https://github.com/user-attachments/assets/e208d806-7244-4f7b-9676-b32a573cf11c"
+  alt="Japanese-style sakura tree."
+  width="310"
+  align="left"
+/>
+
 ![GitHub Contribution Graph](https://ghchart.rshah.org/cristiandlahoz)
+
+<br clear="right"/>
 
 ## その他 Other Work
 
@@ -57,7 +66,7 @@ Building **[Climacall](https://www.climacall.com)**, a management platform tailo
 **[Markdown-Powered Blog](https://github.com/cristiandlahoz/markdown-powered-blog)** - Next.js blog with animated sidebar navigation. Built to learn Next.js SSG and TypeScript.
 **Tech:** Next.js · TypeScript · Tailwind CSS
 
-<p align="center">
+<p>
 <i>"Write code like you're crafting a katana - precise, elegant, deadly."</i>
 </p>
 
