@@ -90,6 +90,15 @@ width="100%"
 
 <p>
 <strong>
+<a href="https://cristiandelahoz.me/stories/en/chatzam/">Chatzam</a>
+</strong>
+- My first mobile project: a native Android messaging app built while learning reactive events and the Android ecosystem.
+<br />
+<strong>Tech:</strong> Java · Firebase · Android
+</p>
+
+<p>
+<strong>
 <a href="https://github.com/cristiandlahoz/zoolan-vetmgmt">Zoolan</a>
 </strong>
 - A veterinary clinic management system built for a real-world client to streamline patient records and appointment scheduling.
