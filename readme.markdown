@@ -5,7 +5,7 @@
 <tr>
 <td width="45%">
 
-<img src="https://github.com/user-attachments/assets/086517d9-92ee-4e44-a8e5-620d692fb2a7" alt="Cristian's Workspace" width="100%"/>
+<img src="assets/profile-workspace.webp" alt="Cristian's Workspace" width="100%"/>
 </td>
 
 <td width="55%">
@@ -14,9 +14,9 @@
 
 ```text
 Currently:
-  → Final year @ PUCMM  
-  → Building with Spring Boot + Vaadin + PostgreSQL
-  → Research: Socratic AI tutor for CS novices (RAG + Guardrails + learning tools)
+  → PUCMM Computer Science Engineer (graduate)
+  → Lead developer @ ClimaCall (Spring Boot + Vaadin)
+  → Capstone: Socratic Tutor (guided chat + visual C debugger)
   
 Philosophy:
   Clean code. Keyboard-driven. Pragmatic Decisions. Neovim or nothing.
@@ -39,9 +39,9 @@ Philosophy:
 
 ## 現在 Current Focus
 
-Building **[Climacall](https://www.climacall.com)**, a management platform tailored for HVAC companies. I am part of a small, agile team focused on delivering a robust solution for service tracking and business operations.
+Building **[ClimaCall](https://www.climacall.com)**, a management platform tailored for HVAC companies. I am part of a small, agile team focused on delivering a robust solution for service tracking and business operations.
 
-**My Role:** Full-stack development. I **collaborate** on the end-to-end lifecycle, from **aligning on Data Models** and implementing **Spring Boot** logic to refining the UI with **Vaadin Flow**. Beyond technical execution, I **partner with stakeholders** to evolve our product strategy, ensuring our collective output optimizes HVAC workflows.
+**My Role:** Lead developer. I **collaborate** on the end-to-end lifecycle, from **aligning on Data Models** and implementing **Spring Boot** logic to refining the UI with **Vaadin Flow**. I review code and plan technical work with the team.
 
 **The Stack:** Spring Boot · Vaadin Flow · PostgreSQL · Docker"
 
@@ -69,6 +69,24 @@ width="100%"
 <br /><br />
 
 <h2>その他 Other Work</h2>
+
+<p>
+<strong>
+<a href="https://cristiandelahoz.me/stories/en/socratic-tutor/">Socratic Tutor</a>
+</strong>
+- An AI-assisted learning platform from our capstone project. I built the guided conversation, AI orchestration, and visual C debugger; my partner built the activities feature.
+<br />
+<strong>Tech:</strong> Spring Boot · Vaadin Flow · Spring AI · PostgreSQL
+</p>
+
+<p>
+<strong>
+<a href="https://cristiandelahoz.me/stories/en/pokedex/">Pokédex</a>
+</strong>
+- A Flutter Pokédex with search, Pokémon profiles, favorites, trivia, and interactive evolution graphs built from PokéAPI data.
+<br />
+<strong>Tech:</strong> Flutter · GraphQL · PokéAPI
+</p>
 
 <p>
 <strong>
